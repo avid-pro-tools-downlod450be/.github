@@ -8,7 +8,7 @@ In today’s fast-paced digital world, high-quality content is key—whether it�
   <img
     src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
     alt="gg"
-    width="800"
+    width="1000"
   >
 </a>
 
